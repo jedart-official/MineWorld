@@ -1,0 +1,17 @@
+{
+	id: "bfc5bf25-7543-11ec-9a38-f02f74958c02"
+	type: "player"
+	player_name: "Kamikoto8822"
+	ranks: {
+		bfc5bf25-7543-11ec-9a38-f02f74958c02: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Kamikoto8822"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

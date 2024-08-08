@@ -1,0 +1,17 @@
+{
+	id: "070e5dd2-7c03-4771-a5a1-6438d66ce5ba"
+	type: "player"
+	player_name: "Q_2___"
+	ranks: {
+		070e5dd2-7c03-4771-a5a1-6438d66ce5ba: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Q_2___"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6DFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

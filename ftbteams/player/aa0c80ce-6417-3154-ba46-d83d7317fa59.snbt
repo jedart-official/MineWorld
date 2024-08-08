@@ -1,0 +1,17 @@
+{
+	id: "aa0c80ce-6417-3154-ba46-d83d7317fa59"
+	type: "player"
+	player_name: "JeDaRT"
+	ranks: {
+		aa0c80ce-6417-3154-ba46-d83d7317fa59: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JeDaRT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5992FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
